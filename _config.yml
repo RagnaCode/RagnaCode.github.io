@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://RagnaCode.github.io
+title: Vivek Sah
+tagline: Documenting learnings as I go
+description: My awesome new site
+paginate: 15
